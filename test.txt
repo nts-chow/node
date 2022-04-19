@@ -1,1 +1,19 @@
 https://github.com/zhoujiuzhou9/node.git
+git -c color.branch=false -c color.diff=false -c color.status=false -c diff.mnemonicprefix=false -c core.quotepath=false -c credential.helper=sourcetree push -v --tags origin refs/heads/main:refs/heads/main 
+Pushing to https://github.com/zhoujiuzhou9/node.git
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/zhoujiuzhou9/node.git/'
+Pushing to https://github.com/zhoujiuzhou9/node.git
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/zhoujiuzhou9/node.git/'
+Pushing to https://github.com/zhoujiuzhou9/node.git
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/zhoujiuzhou9/node.git/'
+Pushing to https://github.com/zhoujiuzhou9/node.git
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/zhoujiuzhou9/node.git/'
+Completed with errors, see above
